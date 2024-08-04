@@ -1,4 +1,9 @@
-# **AtliQ-Reports**
+# **AtliQ Hardware Financial, Sales and Marketing Analysis**
+
+- **Description:** In-depth analysis of Atliq Hardware's financial, sales, and marketing data
+- **Features:** Pivot analysis, DAX measures, conditional analysis, and more
+- **Industry-Driven:** Carefully curated to mimic real-world scenarios
+- **Goal:** Preparing for a market-fit data analyst role
 
 # **Project Objectives**
 
